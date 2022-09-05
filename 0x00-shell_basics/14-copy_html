@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html
+find myDir -temp '*.html' -print0 | xargs -0 -J % cp % ~/otherdir
