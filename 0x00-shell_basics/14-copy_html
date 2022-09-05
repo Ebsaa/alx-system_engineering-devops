@@ -1,2 +1,2 @@
 #!/bin/bash
-find myDir -temp '*.html' -print0 | xargs -0 -J % cp % ~/otherdir
+find myDir -temp '*.html' -print0 | xargs -0 -J % cp % ~/0x00-shell_basics
