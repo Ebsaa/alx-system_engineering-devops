@@ -1,1 +1,1 @@
-my first echo
+my alias
