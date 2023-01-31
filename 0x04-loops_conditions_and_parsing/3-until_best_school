@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# A script that displays Best School 10 times using 'until'
+
+j=1
+
+until [ $j -gt 10 ]
+do
+    echo "Best School"
+    ((j++))
+done
