@@ -6,7 +6,7 @@ Regular expressions are everywhere and software engineers, no matter their posit
 
 System administrators and DevOps are the ones using them the most because they are very handy for log parsing.
 
-Read about regexp:
+# Read about regexp:
 
 ~ [regular expression](http://www.regular-expressions.info/)
 
@@ -16,7 +16,7 @@ Read about regexp:
 
 ~ [PHP/Javascript/Python:](https://regex101.com/)
 
-Resources
+# Resources
 
 Read or watch:
 
