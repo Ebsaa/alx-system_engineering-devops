@@ -6,11 +6,11 @@
 
 # loopback Ip
 
-![localhost 0x08](https://user-images.githubusercontent.com/109864961/216468438-eff3e5e4-dc5e-4125-bbed-4d83b5004006.png)
+![localhost ip](https://user-images.githubusercontent.com/109864961/216468438-eff3e5e4-dc5e-4125-bbed-4d83b5004006.png)
 
 # Resources
 
-#Read or watch:
+Read or watch:
 
 ~ [What is localhost](https://en.wikipedia.org/wiki/Localhost)
 
