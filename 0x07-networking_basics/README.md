@@ -24,14 +24,18 @@ Read or watch:
 
 # OSI model
 
-![OSI Model](../test python/osi model.jpg)
+![osi model](https://user-images.githubusercontent.com/109864961/216453398-866aec19-e480-4eee-ab9d-0232ee5a4639.png)
 
-![OSI Model Detail](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230201T203148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fdc515641087a88a890ffb687752eb9cd43ec7f33e293a30cf935c7c0a596018)
+![osi model detail](https://user-images.githubusercontent.com/109864961/216453191-e14a30b3-5a95-4620-aa22-269ef96d6230.jpg)
 
-![Types of Network](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230201T203148Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3068750d71d4d7693836713ec2be6032bb3c2d351899175992dfad1976968c8b)
+# Types of Network
 
-![MAC and IP Address](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230202T192301Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cc3a7ddd4c00b6b6c683a270f334b183b275fc012d5be7a1604196756d900306)
+![Types of network](https://user-images.githubusercontent.com/109864961/216453504-d5d622a1-8566-4a08-9932-40c0a147e4cd.jpg)
 
-![UDP and TCP](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230202T192301Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ed800bd206ef4aab3b2f7ac598d9c89b31f03fe3f2941d653e2556f70d3de34f)
+# MAC & IP
 
-![ host on the network](https://media.giphy.com/media/uDxkJAVSU7GY8/giphy.gif)
+![Mac and IP](https://user-images.githubusercontent.com/109864961/216453649-83e8513c-b646-4f3c-a39d-00232f2b58cc.jpg)
+
+# UDP &CDP
+
+![UDP and TCP](https://user-images.githubusercontent.com/109864961/216453752-e61331c7-724f-44d7-82b3-700c56d3cf37.jpg)
