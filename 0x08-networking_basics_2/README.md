@@ -1,10 +1,12 @@
 # 0x08. Networking basics - 1
 
-# DevOps - Network - SysAdmin
+  DevOps - Network - SysAdmin
 
 # Solution Tasks to 0x08. Networking basics
 
 # loopback Ip
+
+![localhost 0x08](https://user-images.githubusercontent.com/109864961/216468438-eff3e5e4-dc5e-4125-bbed-4d83b5004006.png)
 
 # Resources
 
