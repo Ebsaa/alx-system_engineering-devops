@@ -28,8 +28,14 @@ Read or watch:
 
 ![osi model detail](https://user-images.githubusercontent.com/109864961/216453191-e14a30b3-5a95-4620-aa22-269ef96d6230.jpg)
 
+# Types of Network
+
 ![Types of network](https://user-images.githubusercontent.com/109864961/216453504-d5d622a1-8566-4a08-9932-40c0a147e4cd.jpg)
 
+# MAC & IP
+
 ![Mac and IP](https://user-images.githubusercontent.com/109864961/216453649-83e8513c-b646-4f3c-a39d-00232f2b58cc.jpg)
+
+# UDP &CDP
 
 ![UDP and TCP](https://user-images.githubusercontent.com/109864961/216453752-e61331c7-724f-44d7-82b3-700c56d3cf37.jpg)
